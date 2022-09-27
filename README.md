@@ -6,12 +6,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dgocarvalho/belvo-test">
-    <img src="https://github.com/dgocarvalho/belvo-test/blob/d4ff33912f3438759eb9ebf243938cedacefcbcd/src/img/WIMM.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/dgocarvalho/wimm-belvo">
+    <img src="https://github.com/dgocarvalho/wimm-belvo/blob/main/src/img/WIMM.png" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center">WIMM - Where Is My Money</h3>
 
+  <a href="http://wimm.thecarvalho.com.br/">View Online Demo</a>
   <p align="center">
     WIMM is a personal finance control app. A web app that allows you to see the many account bank in one place. It is using a belvo API to integrate with a bank account inside a financial or gig institution.
     <br />    
